@@ -1,4 +1,22 @@
-flask
-TA-Lib
-pandas
-yfinance
+certifi==2021.10.8
+charset-normalizer==2.0.12
+click==8.1.2
+Flask @ file:///opt/conda/conda-bld/flask_1648041541647/work
+idna==3.3
+importlib-metadata==4.11.3
+itsdangerous==2.1.2
+Jinja2==3.1.1
+lxml==4.8.0
+MarkupSafe==2.1.1
+multitasking==0.0.10
+numpy==1.22.3
+pandas==1.4.2
+python-dateutil==2.8.2
+pytz==2022.1
+requests==2.27.1
+six==1.16.0
+TA-Lib @ file:///Users/runner/miniforge3/conda-bld/ta-lib_1637267171359/work
+urllib3==1.26.9
+Werkzeug==2.1.1
+yfinance==0.1.70
+zipp==3.8.0
